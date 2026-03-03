@@ -105,8 +105,9 @@ def main():
     
     tw=input("Wanna follow me up on twitter?  :)  Type Yes for twitter profile or press enter to quit: ")
     if tw=="Yes" or tw=="yes":
-        webbrowser.open_new_tab("https://twitter.com/bingo07_bingo")
+        webbrowser.open_new_tab("https://x.com/Gujaratiladka")
     exit()
 
 if __name__=="__main__":
     main()
+
